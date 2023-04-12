@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Laboratorio04Cardona</string>
+    <string name="name_hint">Nombre</string>
+    <string name="email_hint">Correo electronico</string>
+    <string name="phone_number_hint">Numero de telefono</string>
+    <string name="save_text_button">Guardar</string>
+</resources>
