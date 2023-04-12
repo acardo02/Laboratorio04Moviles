@@ -1,6 +1,6 @@
 # Laboratorio04Moviles
 
-##Preguntas 
+## Preguntas 
 
 ### 1. Menciona los tipos de intents que existen y un ejemplo de cada uno
 
